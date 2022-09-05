@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta/awk'NK==3
+cat iacta|awk'FNK==3'
